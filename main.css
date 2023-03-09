@@ -1,0 +1,17 @@
+
+main{
+    display: grid;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+#question{
+    margin: 10px;
+}
+
+#question form{
+    margin: 10px;
+}
